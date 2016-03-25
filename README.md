@@ -1,6 +1,6 @@
 Add Bezier and point classes. 
 
-Create points and use Bezier::addPoint() method to add to Bezier object. Or create two equal length vectors with X values and Y values and use addPointsXY().
+Create points and use addPoint() method to add to Bezier object. Or create two equal length vectors with X values and Y values and use addPointsXY().
 
 adddPointsXY2() will take two int arrays.
 
